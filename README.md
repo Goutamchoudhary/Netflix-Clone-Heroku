@@ -36,23 +36,24 @@
 
 ### Images
 
-Register Page
+**Register Page**
 
 ![Register](https://res.cloudinary.com/du7od2uuc/image/upload/v1653584262/Netflix-Clone/Github%20Readme%20Images/Netflix-Clone-RegisterPage_lwolmb.jpg)
 
-Login Page
+**Login Page**
 
 ![Login](https://res.cloudinary.com/du7od2uuc/image/upload/v1653584262/Netflix-Clone/Github%20Readme%20Images/Netflix-Clone-LogInPage_jv8pxf.jpg)
 
-Home Page
+**Home Page**
 
-![Home](https://res.cloudinary.com/du7od2uuc/image/upload/v1653584262/Netflix-Clone/Github%20Readme%20Images/Netflix-Clone-DemoPic-1_cs9qtj.jpg)
+![Home1](https://res.cloudinary.com/du7od2uuc/image/upload/v1653585157/Netflix-Clone/Github%20Readme%20Images/netflix-home-new_gddhbf.jpg)
+![Home2](https://res.cloudinary.com/du7od2uuc/image/upload/v1653585202/Netflix-Clone/Github%20Readme%20Images/netflix-home-new-2_vqrl8m.jpg)
 
-Movie Page
+**Movie Page**
 
 ![Movie](https://res.cloudinary.com/du7od2uuc/image/upload/v1653584262/Netflix-Clone/Github%20Readme%20Images/Netflix-Clone-DemoPic-3_gauebp.jpg)
 
-TVShows Page
+**TVShows Page**
 
 ![TVShows](https://res.cloudinary.com/du7od2uuc/image/upload/v1653584263/Netflix-Clone/Github%20Readme%20Images/Netflix-Clone-DemoPic-2_auqame.jpg)
 
