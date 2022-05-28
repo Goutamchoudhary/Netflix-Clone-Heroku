@@ -6,6 +6,8 @@
   REST API is used to perform the CRUD operations for user, movies/tvshows, featured list, and collection list with MongoDB Cluster.
   Axios library is used to fetch or create data to MongoDB server via HTTP requests.
   ExpressJS is used which is a back end web application framework for NodeJS. 
+
+**Note:** This application is deployed on heroku using Heroku Platform which is a Software-as-a-Service.
   
 ## Features Implemented
 
