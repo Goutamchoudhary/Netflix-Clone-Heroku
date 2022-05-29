@@ -1,19 +1,24 @@
 # Netflix-Clone-Heroku
 
+
 ## Background
+***
 
   A full stack MERN application built using ReactJS, React Hooks, React Router, Material UI, Saas Styling, ExpressJS, NodeJS, and MongoDB.
-  REST API is used to perform the CRUD operations for user, movies/tvshows, featured list, and collection list with MongoDB Cluster.
-  Axios library is used to fetch or create data to MongoDB server via HTTP requests.
-  ExpressJS is used which is a back end web application framework for NodeJS. 
+  REST API is used to perform the CRUD operations for user, movies/tvshows, featured list, and collection list with MongoDB Cluster. If the user is 
+  logged in as admin, all the data related to movie/tvshow lists and featured list is being created using REST APIs via HTTP POST method. Since there 
+  is no admin dashboard created so all those HTTP requests are made through POSTMAN. Axios library is used to fetch or create data to MongoDB server 
+  via HTTP requests. ExpressJS is used which is a back-end web application framework for NodeJS.
 
 **Note:** This application is deployed on heroku using Heroku Platform which is a Software-as-a-Service.
-  
+
 ## Features Implemented
+***
 
 * Original Netflix UI replicated using ReactJS, React Hooks, Material UI, and advanced sass styling.
 * A register page and sign in page is created where a user can safely sign up and sign in with the valid email id.
 * While login, a token is generated which is used to authenticate the user. This is implemented using jsonwebtoken. 
+* All users are not allowed to make create, update and delete requests to the MongoDB server except if the user logged in as admin.
 * The passwords are encrypted using CryptoJS library.
 * A random tvshow or movie will be displayed in the featured part of the application.
 * Collections of popular movies and tvshows are created in the database manually.
@@ -26,19 +31,30 @@
 
 
 ## New features to be added
+***
 
 * Add user profile data, profile picture and personal data setup.
 * Add watchlist feature where user can add their favourite or to be watched movies/tvshows to their watchlist. 
   The list will be user specific and can be implemented with the help of cookies.
-*  More data to be created so that user can browse based on genre of its choice.
+* More data to be created so that user can browse based on genre of its choice.
 * Implement more features as a personal practice project.
 
 
 ## Demo
+***
 
-### Live Deployed Website : [Link](https://netflix-clone-gautam.herokuapp.com/)
+### Live Deployed Website : [https://netflix-clone-gautam.herokuapp.com/](https://netflix-clone-gautam.herokuapp.com/)
+---
+
+### Demo Video
+---
+
+https://user-images.githubusercontent.com/68272020/170863606-7060b016-6ce8-4ee7-a077-44ae76741fb6.mp4
+
 
 ### Images
+---
+
 
 **Register Page**
 
